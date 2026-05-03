@@ -1,0 +1,22 @@
+Aim
+To develop an Android application that demonstrates drawing basic graphic primitives such as Line, Rectangle, Circle, Oval, and Text on the screen using a custom View class and Canvas in Java.
+
+Algorithm
+1. Start Android Studio and create a new Android project.
+2. Create MainActivity that extends AppCompatActivity.
+3. In the onCreate() method:
+Call EdgeToEdge.enable(this).
+Create an object of custom class MyClass.
+Set it using setContentView(view).
+4. Create a custom class MyClass that extends View.
+5. Declare a Paint object for color, style, and stroke width.
+6. Initialize the Paint object in the constructor.
+7. Override onDraw(Canvas canvas) method.
+8. Inside onDraw() draw shapes:
+drawLine() → draw a line
+drawRect() → draw a rectangle
+drawCircle() → draw circles
+drawOval() → draw an oval
+drawText() → display text
+9. Run the application on an emulator or Android device.
+10. The screen shows graphic primitives like line, rectangle, circle, oval, and text.
