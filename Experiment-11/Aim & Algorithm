@@ -1,0 +1,13 @@
+Experiment 11: WebView in Android Studio
+Aim
+To develop an Android application using Android Studio that displays web content inside the app using a WebView component.
+
+Algorithm
+1.Start
+2.Open Android Studio
+3.Create a new Android project
+4.Design the layout by adding a WebView component in the XML file
+5.Assign an ID to the WebView (e.g., webView1)
+6.Open the Java/Kotlin file (MainActivity)
+7.Import the required WebView packages
+8.Initialize the WebView using its ID
