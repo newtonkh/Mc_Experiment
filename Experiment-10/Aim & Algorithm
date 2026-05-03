@@ -1,0 +1,14 @@
+Exp 10.12: RadioButton and RadioButton Group
+Aim
+To design an application using RadioButton and RadioGroup to select one option from multiple choices.
+
+Algorithm
+1.Start
+2.Create a layout with a RadioGroup
+3.Add multiple RadioButtons inside the RadioGroup
+4.Assign unique IDs to each RadioButton
+5.Wait for the user to select one option
+6.On button click (or event):
+ Check which RadioButton is selected using RadioGroup
+7.Display the selected option (using TextView/Toast)
+8.Stop
