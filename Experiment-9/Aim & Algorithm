@@ -1,0 +1,19 @@
+Experiment 7: Widget Application
+Aim
+To design and develop a simple widget-based application using basic UI components (such as Button, TextView, EditText, etc.) and perform actions based on user interaction.
+
+Algorithm
+1. Start the program
+2. Initialize the application interface (UI)
+3. Add required widgets such as:
+    TextView (for displaying text)
+    EditText (for user input)
+    Button (for performing action)
+4. Set properties for each widget (text, size, layout, etc.)
+5. Wait for user interaction
+6. When Button is clicked:
+   Read input from EditText
+   Process the input (e.g., display message or perform calculation)
+7. Display the result in TextView or Toast message
+8. Repeat steps for further interaction if needed
+9. Stop the program
