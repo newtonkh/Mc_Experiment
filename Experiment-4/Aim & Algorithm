@@ -1,0 +1,18 @@
+Experiment 4: Addition of Two Numbers
+
+Aim
+To develop an Android application to add two numbers using EditText and Button controls.
+
+Algorithm
+1.Start Android Studio and create a new project.
+2.Open activity_main.xml layout file.
+3.Add two EditText fields to enter numbers.
+4.Add Addition and Reset buttons.
+5.Add a TextView to display the result.
+6.Open MainActivity.java.
+7.Connect the UI components using findViewById().
+8.Set OnClickListener for the Addition button.
+9.Convert the entered values into numbers and calculate the sum.
+10.Display the result in the TextView.
+11.Reset button clears the fields and result.
+12.Run the application and verify the output.
