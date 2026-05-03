@@ -1,0 +1,42 @@
+Experiment 7: Menu Program (Cut, Copy, Paste, Delete, Select All, Unselect All)
+Aim
+
+To create a program that implements a menu-driven interface with editing options such as Cut, Copy, Paste, Delete, Select All, and Unselect All for handling text data.
+
+Algorithm
+1.Start the program
+2.Initialize variables
+    Declare a string variable to store the text.
+    Declare another variable for clipboard (temporary storage).
+    Use a flag or variable to track selection.
+3.Display menu options
+   Show the following choices:
+      Cut
+      Copy
+      Paste
+      Delete
+      Select All
+      Unselect All
+      Exit
+4.Accept user choice
+5.Perform operation based on choice
+  Cut
+     If text is selected:
+     Copy selected text to clipboard
+     Remove selected text from main text
+  Copy
+     If text is selected:
+     Copy selected text to clipboard
+  Paste
+     Insert clipboard content into the text
+  Delete
+     Remove selected text from main text
+  Select All
+     Mark entire text as selected
+  Unselect All
+     Remove selection
+  Exit
+     Terminate the program
+6.Display updated text
+7.Repeat steps 3–6 until user selects Exit
+8.Stop the program
