@@ -1,0 +1,17 @@
+Experiment 6: Android Layouts (Linear, Relative, Table)
+Aim
+To design and implement different types of Android layouts such as LinearLayout, RelativeLayout, and TableLayout for arranging UI components in various ways.
+
+Algorithm
+1.Start Android Studio.
+2.Create a new Android project.
+3.Open the activity_main.xml file.
+4.Design the UI using different layouts:
+   Use LinearLayout to arrange elements in a single direction (vertical/horizontal).
+   Use RelativeLayout to position elements relative to each other.
+   Use TableLayout to arrange elements in rows and columns.
+5.Add UI components like TextView, Button, and EditText inside each layout.
+6.Set properties such as width, height, orientation, and positioning constraints.
+7.Save the project.
+8.Run the application on an emulator or Android device.
+9.Observe the output of different layouts.
