@@ -1,0 +1,13 @@
+Experiment 1: Hello World Application
+
+ Aim
+To develop a simple Android application that displays "Hello World" on the screen.
+
+ Algorithm
+1. Start the Android Studio.
+2. Create a new Android project.
+3. Open activity_main.xml file.
+4. Add a TextView to display the text.
+5. Write "Hello World!" in the TextView.
+6. Run the application.
+7. The text "Hello World!" will appear on the screen.
